@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #313131;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+    </style>
+  </defs>
+  <text id="footer-logo" class="cls-1" transform="translate(0 24)"><tspan x="0" y="0">FarmCore</tspan></text>
+</svg>
